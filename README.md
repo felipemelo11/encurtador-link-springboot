@@ -47,7 +47,7 @@ Este é um projeto de encurtador de URLs desenvolvido com **Java Spring Boot** e
 
 ## 🖍️ Endpoints da API
 
-### 1⃣ Encurtar URL
+### 1⃣  Encurtar URL
 - **POST /encurtar**
 - Exemplo de Request:
   ```json
@@ -65,7 +65,7 @@ Este é um projeto de encurtador de URLs desenvolvido com **Java Spring Boot** e
   }
   ```
 
-### 2⃣ Redirecionar URL
+### 2⃣  Redirecionar URL
 - **GET /r/{urlEncurtada}**
 - Exemplo:  
   - Acesse **http://localhost:8080/r/abc123** para redirecionar ao link original.
@@ -81,10 +81,5 @@ Este é um projeto de encurtador de URLs desenvolvido com **Java Spring Boot** e
 
 ## 🧑‍💻 Contribuições
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request. 💬
-
----
-
-## 📄 Licença
-Este projeto está sob a licença [MIT](LICENSE).
 
 ---
