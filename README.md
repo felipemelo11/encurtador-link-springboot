@@ -79,7 +79,8 @@ Este é um projeto de encurtador de URLs desenvolvido com **Java Spring Boot** e
 
 ---
 
-## 🧑‍💻 Contribuições
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request. 💬
+## Autor
+Felipe de Melo Brito
 
+https://www.linkedin.com/in/felipemelo1106
 ---
